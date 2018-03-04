@@ -1,6 +1,5 @@
 # UAE AI Hackfest | February 25th - 28th | Dubai
 
-# Table of Contents
 1. [Prerequisite](#prerequisite)
 2. [Setup the bot framework environment](#bot_setup)
 3. [Hands on labs for cognitive services](#cs_hands_on_labs)
