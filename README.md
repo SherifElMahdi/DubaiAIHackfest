@@ -1,9 +1,9 @@
 # UAE AI Hackfest | February 25th - 28th | Dubai
 
 1. [Prerequisite](#prerequisite)
-2. [Setup the bot framework environment](#bot_setup)
-3. [Hands on labs for cognitive services](#cs_hands_on_labs)
-4. [Hands on labs for chatbots](#bot_hands_on_labs)
+2. [Bot Framework Dev Environment Setup](#bot_setup)
+3. [Cognitive Services HOLs](#cs_hands_on_labs)
+4. [Bot Builder HOLs](#bot_hands_on_labs)
 6. [Code Samples](#bot_code_samples)
 
 
