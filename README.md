@@ -4,8 +4,8 @@
 2. [Setup the bot framework environment](#bot_setup)
 3. [Hands on labs for cognitive services](#cs_hands_on_labs)
 4. [Hands on labs for chatbots](#bot_hands_on_labs)
-6. [Further code samples](#bot_code_samples)
-7. [Intelligen Kiosk](#kiosk)
+6. [Code Samples](#bot_code_samples)
+
 
 ## Prerequisite:
 * Azure Subscription
@@ -30,7 +30,7 @@
  
 Link: https://aka.ms/bothols
 
-## Code Samples
+## Code Samples <a name="bot_code_samples"></a>
 1. [Bots from zero to hero](https://github.com/SherifElMahdi/botsfromzerotohero)
 2. [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
 
