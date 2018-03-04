@@ -35,5 +35,5 @@ Link: https://aka.ms/bothols
 2. [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
 
 ## Slide Decks
-1. [Track 1 PPTs]()
+1. [Track 1 Slide Decks](https://www.dropbox.com/sh/hyt3wmj93w7lcad/AACTrVK0ieS5iXhZzwB-1Ghsa?dl=0)
 2. [Track 2 Slide Decks](https://www.dropbox.com/sh/12hm5oghiqhuu83/AABhKnG5MKWzrL809dDvpGd6a?dl=0)
