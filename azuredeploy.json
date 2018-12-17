@@ -56,7 +56,6 @@
       "subnetPrefix": "10.113.1.128/25",
       "storageAccountType": "Standard_LRS",
       "vmSize": "Standard_A1",
-      "virtualNetworkName": "Data_Science_Platform-VNet",
       "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', parameters('existingVirtualNetworkName'), parameters('subnetName'))]",
       "dataDisk1Name": "First_DataDisk",
       "dataDisk2Name": "Second_DataDisk"
@@ -69,7 +68,7 @@
         "name": "[parameters('nicName')]",
         "location": "[parameters('location')]",
         "dependsOn": [
-          "[concat('Microsoft.Network/virtualNetworks/', variables('virtualNetworkName'))]"
+          "[concat('Microsoft.Network/virtualNetworks/', parameters('existingVirtualNetworkName'))]"
         ],
         "properties": {
           "ipConfigurations": [
