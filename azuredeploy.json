@@ -67,9 +67,6 @@
         "type": "Microsoft.Network/networkInterfaces",
         "name": "[parameters('nicName')]",
         "location": "[parameters('location')]",
-        "dependsOn": [
-          "[concat('Microsoft.Network/virtualNetworks/', parameters('existingVirtualNetworkName'))]"
-        ],
         "properties": {
           "ipConfigurations": [
             {
